@@ -73,7 +73,7 @@
       "Name": "Note",
       "Code": "Note",
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
-      "PreviousPropertyGuid": "749bf7eb-a948-4e28-862b-efe28518a299"     
+      "PreviousPropertyGuid": "749bf7eb-a948-4e28-862b-efe28518a299"
     },
     {
       "$type": "Sungero.Metadata.EnumPropertyMetadata, Sungero.Metadata",
